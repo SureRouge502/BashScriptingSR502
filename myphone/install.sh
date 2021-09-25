@@ -29,9 +29,9 @@ echo Welcome $name
 echo
 
 #installation
-sudo apt install android-tools-adb &&
-sudo apt install android-tools-fastboot &&
-sudo apt install scrcpy
+sudo apt install android-tools-adb -y &&
+sudo apt install android-tools-fastboot -y &&
+sudo apt install scrcpy -y
 chmod +x myphone.sh
 echo
 echo
