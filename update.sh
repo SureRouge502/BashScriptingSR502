@@ -41,7 +41,7 @@ read u
 #ifelse
 if [ $u -eq 0 ]
 then
-x-terminal-emulator -e sudo apt-get update
+x-terminal-emulator -e sudo apt-get update &&
 x-terminal-emulator -e sudo apt-get upgrade -y
 else
 echo 
