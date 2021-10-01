@@ -36,7 +36,7 @@ read q
 #IfElse
 if [ $q -eq 0 ]
 then
-echo Please Create a port number --5 digits only
+echo Please Create a port number --.Upto 5 digits only
 echo
 read port
 echo 
