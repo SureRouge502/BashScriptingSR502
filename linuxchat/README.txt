@@ -15,7 +15,7 @@ Installation:
 
 Its quiet easy if i say so myself. infact just one piece of code to install all tools required to run this program
 
----> First, Give executable abilities to the program and the installer itself using the code 'Chill.. u only need to do this once'
+---> First, Give executable abilities to the program and the installer itself using the code given below ---(Chill.. u only need to do this once)
 
 chmod +x install.sh linuxchat.sh
 
