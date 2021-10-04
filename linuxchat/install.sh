@@ -6,8 +6,8 @@ echo Run the installation file In Sudo/SuperUser mode -Ignore If already In SU m
 echo -----------------------------------------------------------------------------------------------------------
 echo
 sleep 2
-apt install net-tools -y &&
-apt install netcat -y
+sudo apt install net-tools -y &&
+sudo apt install netcat -y
 echo
 echo
 echo -----------------------------------------------------------------------------------------------------------
