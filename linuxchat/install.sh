@@ -7,7 +7,7 @@ echo ---------------------------------------------------------------------------
 echo
 sleep 2
 sudo apt install net-tools -y &&
-sudo apt install netcat -y
+sudo apt install netcat-traditional -y
 echo
 echo
 echo -----------------------------------------------------------------------------------------------------------
