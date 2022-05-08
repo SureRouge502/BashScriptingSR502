@@ -35,6 +35,9 @@ echo Run the installation file In Sudo/SuperUser mode -Ignore If already In SU m
 echo -----------------------------------------------------------------------------------------------------------
 sleep 3
 echo
+sudo apt install python3-pip -y
+sudo apt-get install python3-tk -y
+pip install tkinter-y
 sudo apt install python3 -y
 sudo apt install python-tk -y
 sudo apt install cava -y
